@@ -11,8 +11,7 @@ const lifestyleCategories = [
     title: "Beaches & Coast",
     description: "World-class beaches just minutes from universities",
     gradient: "from-blue-500 to-cyan-500",
-    highlights: ["30+ Blue Flag beaches", "Year-round swimming", "Water sports", "Beach volleyball"],
-    image: "/images/cyprus-beach.jpg"
+    highlights: ["30+ Blue Flag beaches", "Year-round swimming", "Water sports", "Beach volleyball"]
   },
   {
     id: 'food',
@@ -20,8 +19,7 @@ const lifestyleCategories = [
     title: "Food & Dining",
     description: "Mediterranean cuisine and vibrant student food scene",
     gradient: "from-orange-500 to-red-500",
-    highlights: ["Authentic Greek cuisine", "Affordable student meals", "Beach tavernas", "Nightlife dining"],
-    image: "/images/cyprus-food.jpg"
+    highlights: ["Authentic Greek cuisine", "Affordable student meals", "Beach tavernas", "Nightlife dining"]
   },
   {
     id: 'culture',
@@ -29,8 +27,7 @@ const lifestyleCategories = [
     title: "Culture & History",
     description: "Rich heritage sites and cultural experiences", 
     gradient: "from-purple-500 to-pink-500",
-    highlights: ["Ancient ruins", "Museums & galleries", "Traditional festivals", "UNESCO sites"],
-    image: "/images/cyprus-culture.jpg"
+    highlights: ["Ancient ruins", "Museums & galleries", "Traditional festivals", "UNESCO sites"]
   },
   {
     id: 'nightlife',
@@ -38,8 +35,7 @@ const lifestyleCategories = [
     title: "Nightlife & Social",
     description: "Vibrant student nightlife and social scenes",
     gradient: "from-pink-500 to-purple-500",
-    highlights: ["Student parties", "Beach clubs", "Live music venues", "International crowd"],
-    image: "/images/cyprus-nightlife.jpg"
+    highlights: ["Student parties", "Beach clubs", "Live music venues", "International crowd"]
   }
 ];
 
@@ -80,7 +76,6 @@ const popularSpots = [
     type: "Beach Paradise",
     location: "Ayia Napa",
     description: "Famous beach with crystal clear waters and beach parties",
-    image: "/images/nissi-beach.jpg",
     tags: ["Swimming", "Parties", "Water Sports"]
   },
   {
@@ -88,7 +83,6 @@ const popularSpots = [
     type: "Historic Harbor",
     location: "Paphos", 
     description: "Scenic harbor with restaurants and archaeological sites",
-    image: "/images/paphos-harbor.jpg",
     tags: ["History", "Dining", "Sunsets"]
   },
   {
@@ -96,7 +90,6 @@ const popularSpots = [
     type: "Nature Escape",
     location: "Central Cyprus",
     description: "Mountain villages, hiking trails, and cooler weather",
-    image: "/images/troodos.jpg", 
     tags: ["Hiking", "Villages", "Nature"]
   },
   {
@@ -104,7 +97,6 @@ const popularSpots = [
     type: "Modern Hub",
     location: "Limassol",
     description: "Luxury marina with shopping, dining and entertainment",
-    image: "/images/limassol-marina.jpg",
     tags: ["Shopping", "Dining", "Marina"]
   }
 ];
